@@ -31,8 +31,8 @@
         <vue-typed-js :strings="['grandmasponge']" :loop="false">
           <a href="https://github.com/grandmasponge" class="py-6"> Github:<span class="typing"></span></a>
         </vue-typed-js>
-        <vue-typed-js :strings="['grandmasponge420@gmail.com']" :loop="false">
-          <a href="https://mail.google.com/mail/u/1/#inbox" class="py-6"> Email:<span class="typing"></span></a>
+        <vue-typed-js :strings="['Me@Grandmasponge.com']" :loop="false">
+          <a href="mailto:me@grandmasponge.com" class="py-6"> Email:<span class="typing"></span></a>
         </vue-typed-js>
         </a>
       </div>
