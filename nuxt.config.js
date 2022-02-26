@@ -36,6 +36,16 @@ export default {
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
+
+    ['nuxt-umami-module', {
+      autoTrack: true,
+      doNotTrack: false,
+      cache: false,
+      domains: 'mywebsite.com,mywebsite2.com',
+      websiteId: 'your-website-id',
+      scriptUrl: 'https://path.to.umami.js',
+    }],
+
   ],
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
