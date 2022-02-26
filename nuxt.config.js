@@ -16,7 +16,7 @@ export default {
     ],
     script: [
       {
-        src: 'https://analytics.felixklg.dev/umami.js',
+        src: 'https://analytics.felixklg.dev/VwDrVUy9RFqbFd6.js',
         async: true,
         defer: true,
         body: true,
